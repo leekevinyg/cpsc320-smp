@@ -1,0 +1,23 @@
+{
+  "name": "cpsc320-smp-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leekevinyg/cpsc320-smp.git"
+  },
+  "author": "Kevin Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leekevinyg/cpsc320-smp/issues"
+  },
+  "homepage": "https://github.com/leekevinyg/cpsc320-smp#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
